@@ -1,0 +1,4 @@
+# the request API key
+.env
+# the results file
+results.json
